@@ -1,0 +1,14 @@
+{
+  "name": "yanak_bots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/helton-quintans/yanak_bots.git",
+  "author": "<pvrg.ava@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn node ./src/business/yanakBotFollow.js"
+  },
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
